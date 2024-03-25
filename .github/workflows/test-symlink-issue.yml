@@ -13,4 +13,4 @@ jobs:
 
   test-reusable-workflow:
     name: test reusable workflow with symlinked file in repo
-    uses: Collin3/gha-composite-action-issue-repro/.github/workflows/test-reusable-workflow@main
+    uses: Collin3/gha-composite-action-issue-repro/.github/workflows/test-reusable-workflow.yml@main
